@@ -1,4 +1,7 @@
-# `ammer`
+# `switch-ammer`
+
+Basically just
+ updated [retronx switch-ammer](https://github.com/retronx-team/switch-ammer/)
 
 ![Build Linux](https://github.com/Aurel300/ammer/workflows/Build%20Linux/badge.svg) ![Build OS X](https://github.com/Aurel300/ammer/workflows/Build%20OS%20X/badge.svg)
 
